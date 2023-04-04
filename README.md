@@ -81,14 +81,3 @@ Character escapes allow you to match special characters like newlines or tabs. T
 `\s`: matches any whitespace character (space, tab, newline, etc.)<br>
 
 For example, to match a string containing a newline character, you could use the regex /hello\nworld/.
-
-## Credits
-
-:bust_in_silhouette: [David Michael Mackey](https://www.notion.so/davidmichaelmackey/David-Mackey-a59ce61a996840d6a933e3b135673467?pvs=4)<br>
-:email: [Email](mailto:davidmackey@hey.com)<br>
-:octocat: [GitHub](https://github.com/davidmichaelmackey/)<br>
-:briefcase: [Linkedin](https://linkedin.com/in/davidmichaelmackey/)<br>
-
-## Questions
-
-Have Questions? Feel free send me an [email](mailto:davidmackey@hey.com) or reach out to me on [Linkedin](https://linkedin.com/in/davidmichaelmackey/).
